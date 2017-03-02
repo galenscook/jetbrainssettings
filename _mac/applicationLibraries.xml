@@ -38,6 +38,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/amq-protocol-2.0.1/benchmarks" />
       </SOURCES>
     </library>
+    <library name="appboy (v0.1.2@d921f4, rbenv: 2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/appboy-d921f4940043/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/appboy-d921f4940043/lib" />
+      </SOURCES>
+    </library>
     <library name="approvals (v0.0.22@9f0e6c, rbenv: 2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/approvals-9f0e6c6901a1/bin" />
@@ -424,6 +432,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/e164.rb-6eb140c32915/lib" />
+      </SOURCES>
+    </library>
+    <library name="e164 (v0.0.16@bc8e77, rbenv: 2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/e164.rb-bc8e7793d12c/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/e164.rb-bc8e7793d12c/lib" />
       </SOURCES>
     </library>
     <library name="elasticsearch-api (v1.0.12, rbenv: 2.3.3) [gem]">
@@ -1618,6 +1634,22 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/restforce-07b35a39453b/lib" />
+      </SOURCES>
+    </library>
+    <library name="rollbar (v2.14.0@0a30af, rbenv: 2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/rollbar-gem-0a30aff05a76/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/rollbar-gem-0a30aff05a76/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/rollbar-gem-0a30aff05a76/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/rollbar-gem-0a30aff05a76/gemfiles" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/rollbar-gem-0a30aff05a76/rollbar.js" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/rollbar-gem-0a30aff05a76/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/rollbar-gem-0a30aff05a76/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/rollbar-gem-0a30aff05a76/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/rollbar-gem-0a30aff05a76/gemfiles" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/rollbar-gem-0a30aff05a76/rollbar.js" />
       </SOURCES>
     </library>
     <library name="rollout (v2.2.3, rbenv: 2.3.3) [gem]">
