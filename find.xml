@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.jsx" />
+    <option name="FILE_MASK" value="*-test.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -18,18 +18,18 @@
       <mask>*.mxm</mask>
       <mask>*.mx</mask>
       <mask>*.m</mask>
-      <mask>*-</mask>
       <mask>*-t</mask>
       <mask>*-tes</mask>
-      <mask>*-test</mask>
-      <mask>*-test.</mask>
-      <mask>*-test.j</mask>
-      <mask>*-test.js</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
       <mask>*.jsx</mask>
+      <mask>*-</mask>
+      <mask>*-test</mask>
+      <mask>*-test.</mask>
+      <mask>*-test.j</mask>
+      <mask>*-test.js</mask>
     </recentFileMasks>
   </component>
 </application>
