@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="web" type="PLAIN_TEXT" />
+      <mapping ext="steps" type="PLAIN_TEXT" />
+      <mapping ext="gql" type="PLAIN_TEXT" />
+      <mapping pattern="delete_memberships_with_null_users.rb" type="Ruby" />
+    </extensionMap>
+  </component>
+</application>
