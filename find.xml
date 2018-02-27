@@ -16,7 +16,6 @@
       <mask>*-test.js\</mask>
       <mask>*-test.js\\\</mask>
       <mask>*-test.js\\</mask>
-      <mask>*.scss</mask>
       <mask>*.scs</mask>
       <mask>*.sc</mask>
       <mask>*.s</mask>
@@ -34,6 +33,7 @@
       <mask>*-test.</mask>
       <mask>*-test.j</mask>
       <mask>*-test.js</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
