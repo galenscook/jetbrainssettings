@@ -3,8 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*_spec.rb" />
     <recentFileMasks>
-      <mask>*.java</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
@@ -34,6 +34,7 @@
       <mask>*-test.j</mask>
       <mask>*-test.js</mask>
       <mask>*.scss</mask>
+      <mask>*_spec.rb</mask>
     </recentFileMasks>
   </component>
 </application>
