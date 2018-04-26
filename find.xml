@@ -32,8 +32,8 @@
       <mask>*-test</mask>
       <mask>*-test.</mask>
       <mask>*-test.j</mask>
-      <mask>*-test.js</mask>
       <mask>*.scss</mask>
+      <mask>*-test.js</mask>
     </recentFileMasks>
   </component>
 </application>
